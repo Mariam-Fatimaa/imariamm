@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imariamm
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on expanding my skills in full-stack development.
+- 💞️ I’m looking to collaborate on expanding my skills in UI/UX Projects.
 - 📫 you can reach me on www.linkedin.com/in/mariam-fatima-02129b271
 - 😄 Pronouns: she/her
 
